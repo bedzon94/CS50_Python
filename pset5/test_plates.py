@@ -37,4 +37,8 @@ def test_valid4():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> refs/remotes/origin/main
