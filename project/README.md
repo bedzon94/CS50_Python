@@ -31,7 +31,7 @@ This is a simple Python program that allows you to manage a contacts list. The p
 Copy and paste the provided Python code into a Python environment and execute the script.
 
 ```bash
-python contacts_list.py
+python project.py
 ```
 
 
